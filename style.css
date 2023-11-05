@@ -1,0 +1,10 @@
+.ig-thumb {
+    width: 100px;
+    height: 100px;
+    float: left;
+    overflow: hidden;
+}
+
+.ig-thumb img {
+    width: 100px;
+}
